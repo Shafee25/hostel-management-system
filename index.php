@@ -154,7 +154,7 @@ img{
 </head>
 <body>
 
-<div class="login-page bk-img" style="background-image: url(img/hstl.jpg);">
+<div class="login-page bk-img" style="background-image: url(img/image_1.png);">
 
 	<?php include('includes/header.php');?>
 	<div class="ts-main-content">
